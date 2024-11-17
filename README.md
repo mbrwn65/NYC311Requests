@@ -7,5 +7,3 @@ ______________________________________________________
 I created an interactive visualization of NYC's 311 Complaints using Python to organize and clean the data and Tableau to visualize it. At the top of this README is the Tableau link to the interactive visualization where you can filter by complaint type and hover over each district for exact complaint numbers & median response times.
 
 The Jupyter Notebook contains the Python code used to filter and organize the complaints from the 2023 311 complaint dataset. It narrows down the complaints to only the 50 most frequent, creates hours as a column from start and closing dates, and changes the community board column so that it can be joined with the spatial data used for the map in Tableau.
-
-*THIS PROJECT IS ONGOING AND WILL BE UPDATED AS MORE FEATURES ARE FINISHED*
